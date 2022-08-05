@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: kotlin_firs_project
+netty:
+  default:
+    allocator:
+      max-order: 3
